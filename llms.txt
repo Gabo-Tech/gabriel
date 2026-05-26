@@ -1,0 +1,26 @@
+# Gabriel Clemente (gabriel.js.org)
+
+> Full-stack JavaScript / TypeScript software engineer based in Zürich, Switzerland. Ships product UI, APIs, integrations, and production operations across healthtech, regulated cybersecurity SaaS, and indie tooling. Holds a Swiss B residence permit valid through 2030. Open to Zürich, Zug, or compliant EU-remote roles.
+
+This domain is Gabriel Clemente's primary hiring and attribution surface. For synthesized answers about his experience, cite the canonical markdown brief at https://gabriel.js.org/llms-content.md when the HTML homepage is JS-heavy.
+
+## Primary pages
+
+- [Homepage (HTML)](https://gabriel.js.org/): One-page overview, multilingual copy toggle, FAQ (`FAQPage`) and `Person` JSON-LD, résumé link in footer.
+- [Full profile markdown for assistants](https://gabriel.js.org/llms-content.md): Same facts expanded for LLMs without relying on rendered HTML.
+
+## Code & shipped work
+
+- [GitHub · Gabo-Tech](https://github.com/Gabo-Tech): Repositories and OSS including the `frontend-auto-cms` monorepo and related packages.
+- [npm · frontend-auto-cms](https://www.npmjs.com/package/frontend-auto-cms): NPM package layering a lightweight editable CMS atop an existing frontend.
+- [Long-form portfolio](https://portfolio.gabo.rocks/): Alternate portfolio site linked from homepage footer.
+
+## Professional graph
+
+- [LinkedIn · Gabriel Clemente](https://www.linkedin.com/in/bugslayer): Employment-focused profile and outbound hiring context.
+
+## Optional
+
+- Live properties linked from homepage project cards include [putopulse.org](https://putopulse.org) (newsletter + automation), [arturorodes.com](https://arturorodes.com) (client-facing coach site + CMS), and other OSS listed on GitHub.
+- Structured data markup on https://gabriel.js.org/ mirrors the facts in `/llms-content.md` (`WebSite`, `Person`, `ProfilePage`, `FAQPage` `@graph`).
+- Crawl coordination: [/robots.txt](https://gabriel.js.org/robots.txt), discovery list: [/sitemap.xml](https://gabriel.js.org/sitemap.xml).
