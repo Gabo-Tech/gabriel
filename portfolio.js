@@ -100,7 +100,8 @@
       contactList: {
         aria: "Contact methods and profiles",
         caseStudies: "Case studies",
-        resume: "Résumé (PDF)",
+        resume: "Resume (PDF)",
+        resumeDe: "Lebenslauf (PDF)",
       },
       lede:
         'I build full-stack product work: UIs, APIs, integrations, and whatever keeps things running in production. Self-taught since 2019 (one year of CS at BYU Idaho, then I left to ship real stuff). Since then I\'ve worked on a <strong>telehealth</strong> stack (Angular, React Native, Node, Postgres, AWS), an <strong>enterprise threat-modeling</strong> UI (React, TanStack Query, Zustand, Vitest), and now <strong>freelance engineering</strong> at GABO: client launches, automation, and public tooling. I write code the next person can read and systems that don\'t fall over in prod. New stack? I\'ll learn it.',
@@ -340,7 +341,7 @@
         availability:
           '<span class="type-mix__hit">Abierto a jornada completa</span> o contrato largo desde <strong>2026</strong>. Zúrich, Zug o remoto UE conforme a normativa.',
       },
-      contactList: { aria: "Contacto y perfiles", caseStudies: "Casos de estudio", resume: "CV (PDF)" },
+      contactList: { aria: "Contacto y perfiles", caseStudies: "Casos de estudio", resume: "CV (PDF)", resumeDe: "Lebenslauf (PDF)" },
       lede:
         'Construyo producto full-stack: interfaces, APIs, integraciones y lo que haga falta para que siga funcionando en producción. Autodidacta desde 2019 (un año de informática en BYU Idaho; luego me fui a construir cosas reales). Desde entonces he trabajado en un stack de <strong>telesalud</strong> (Angular, React Native, Node, Postgres, AWS), en una UI de <strong>modelado de amenazas enterprise</strong> (React, TanStack Query, Zustand, Vitest), y ahora en <strong>ingeniería freelance</strong> en GABO: lanzamientos para clientes, automatización y herramientas públicas. Escribo código que el siguiente pueda leer y sistemas que no caigan en prod. ¿Stack nuevo? Lo aprendo.',
       impact: {
@@ -579,7 +580,7 @@
         availability:
           '<span class="type-mix__hit">Offen für Vollzeit</span> oder langfristige Verträge ab <strong>2026</strong>. Zürich, Zug oder EU-Remote gemäss Vorgaben.',
       },
-      contactList: { aria: "Kontakt und Profile", caseStudies: "Fallstudien", resume: "Lebenslauf (PDF)" },
+      contactList: { aria: "Kontakt und Profile", caseStudies: "Fallstudien", resume: "Resume (PDF)", resumeDe: "Lebenslauf (PDF)" },
       lede:
         'Ich liefere Full-Stack-Produktarbeit: UIs, APIs, Integrationen und alles, was den Betrieb in der Produktion unterstützt. Seit 2019 selbst gelernt (ein Jahr Informatik an der BYU Idaho, dann raus, um echte Produkte auszuliefern). Seither unter anderem ein <strong>Telehealth</strong>-Stack (Angular, React Native, Node, Postgres, AWS), eine <strong>Enterprise-Threat-Modeling</strong>-UI (React, TanStack Query, Zustand, Vitest) und jetzt <strong>freiberufliche Engineering</strong>-Arbeit bei GABO: Kundenlaunches, Automatisierung und öffentliche Tools. Ich schreibe Code, den die nächste Person lesen kann, und Systeme, die in der Produktion stabil bleiben. Neuer Stack? Lerne ich.',
       impact: {
